@@ -11,6 +11,8 @@ The Code In Action:
         (In your browser open up the inspector and click the
          phone laptop icon to the left of the "elements" tab).
 
+![Screenshot](screenshot.png)
+
 Recreating The Code:
 
         run:
@@ -41,6 +43,8 @@ Recreating The Code:
 
             grab the code for the complex interaction component from this page and paste it into RecipeReviewCard.js
             https://mui.com/material-ui/react-card/
+
+            (replace image one provided or find your own)
 
             grab the code for "Fab" from this page and paste it into ActionButton.js. 
             The delete every button component execpt the '+' button
